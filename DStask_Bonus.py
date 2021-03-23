@@ -1,6 +1,3 @@
-#Ashish Gour
-#gourashish666@gmail.com
-
 import pandas as pd
 from bs4 import BeautifulSoup
 from selenium import webdriver
